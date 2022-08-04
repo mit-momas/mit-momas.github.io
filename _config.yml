@@ -1,3 +1,12 @@
 theme: jekyll-theme-cayman
-title: MIT HSSP 2022: The Mathematics of Multi-Agent Systems
-description: Course website for MIT HSSP C15061: The Mathematics of Multi-Agent Systems
+title: "The Mathematics of Multi-Agent Systems"
+description: "MIT HSSP 2022"
+name: "MIT HSSP 2022: The Mathematics of Multi-Agent Systems"
+github:
+  is_project_page: false
+plugins:
+  - jekyll-titles-from-headings
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
