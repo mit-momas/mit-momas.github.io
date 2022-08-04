@@ -1,4 +1,4 @@
-# MIT HSSP: The Mathematics of Multi-Agent Systems
+# MIT HSSP 2022: The Mathematics of Multi-Agent Systems
 
 ## Course description
 
