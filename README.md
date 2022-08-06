@@ -66,3 +66,15 @@ How do humans learn? Using insights from behavioral economics, we explore the co
 ### Lecture 4
 How do two or more interacting agents learn? We introduce game theory as a tool for studying multi-agent decision problems with applications to cooperation and the enforcement of social norms.
 [[download](/files/lecture4_multi_agent_systems.pdf){:target="_blank"}]
+
+<br /> 
+
+<div class="imageContainer">
+<img src="/images/lec5.png" alt="lec2" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
+            border-color: $border-color; 
+            border-style: solid;"/>
+</div>
+
+### Lecture 5
+How do we model networks of interacting agents? We use concepts from graph theory to answer questions about social influence, network formation, and multi-agent games.
+[[download](/files/lecture5_graph_theory.pdf){:target="_blank"}]
