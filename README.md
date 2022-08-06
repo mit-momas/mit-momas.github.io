@@ -46,7 +46,7 @@ How do machines learn? An introduction to Deep Reinforcement Learning, covering 
 
 
 <div class="imageContainer">
-<img src="/images/lec3.png" alt="lec2" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
+<img src="/images/lec3.png" alt="lec3" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
             border-color: $border-color; 
             border-style: solid;"/>
 </div>
@@ -58,7 +58,7 @@ How do humans learn? Using insights from behavioral economics, we explore the co
 <br />
 
 <div class="imageContainer">
-<img src="/images/lec4.png" alt="lec2" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
+<img src="/images/lec4.png" alt="lec4" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
             border-color: $border-color; 
             border-style: solid;"/>
 </div>
@@ -70,7 +70,7 @@ How do two or more interacting agents learn? We introduce game theory as a tool 
 <br /> 
 
 <div class="imageContainer">
-<img src="/images/lec5.png" alt="lec2" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
+<img src="/images/lec5.png" alt="lec5" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
             border-color: $border-color; 
             border-style: solid;"/>
 </div>
