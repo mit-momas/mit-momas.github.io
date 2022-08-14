@@ -78,3 +78,15 @@ How do two or more interacting agents learn? We introduce game theory as a tool 
 ### Lecture 5
 How do we model networks of interacting agents? We use concepts from graph theory to answer questions about social influence, network formation, and multi-agent games.
 [[download](/files/lecture5_graph_theory.pdf){:target="_blank"}]
+
+<br /> 
+
+<div class="imageContainer">
+<img src="/images/lec6.png" alt="lec5" width="325" style="float: left; margin: 0 20px 0 0; border-width: 1px; 
+            border-color: $border-color; 
+            border-style: solid;"/>
+</div>
+
+### Lecture 6
+What is a complex system? We conclude the course by motivating the study of such systems through a discussion of the butterfly effect, ergodicity, scale-dependence, and mean-field descriptions.
+[[download](/files/lecture6_complex_systems.pdf){:target="_blank"}]
